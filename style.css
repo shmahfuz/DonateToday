@@ -1,0 +1,195 @@
+Body{
+  Margin:0;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+  Color:rgb(255,255,255);
+  text-align: center;
+  font-size:45px ;
+  padding: 10px 100px 30px ;
+}
+h3{
+  Color:white ;
+  Text-align :center ;
+  font-size: 10px;
+  Padding: 5px 10px;
+}
+.sec1{
+  padding: 40px 80px 80px;
+  background-image: url('donation-cover.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+.anchor-button {
+  display:block; width:100px; margin:0 auto;
+  align-content: center ;
+  text-decoration: none;
+  text-align:center;
+  Background-color:red;
+  Border-radius: 5px;
+  Padding:10px 20px ;
+  font-weight:700 ;
+  Color: white ;
+  cursor: pointer;
+}
+p{
+  font-size: 11px;
+}
+.sec2{
+  text-align: center ;
+  padding:80px 130px;
+}
+.sec3{
+  display: flex;
+  
+}
+.amount{
+  width: 85px ;
+  Height: 40px;
+  text-align: center ;
+  font-size:25px ;
+  Font-weight:700 ;
+  Background-color:rgb(197,201,202) ;
+  margin: 10px 10px ;
+  padding: 20px 20px ;
+  padding-bottom: 5px ;
+  box-shadow: 5px 5px 5px red;
+}
+.container {
+  display: flex ;
+  justify-content: space-evenly ;
+  Padding : 5px 20%;
+}
+.input{
+  Justify-content:space-around ;
+  width: 300px;
+  Height: 5px;
+  align-content: center ;
+  border-top:0;
+  border-bottom:2px solid;
+  border-left: 0;
+  border-right: 0;
+  margin-left: 35%;
+  Padding-bottom: 10px;
+  Margin-top: 2px;
+}
+.container2 {
+  display: flex ;
+  justify-content: space-between ;
+  Padding : 5px 7%;
+}
+#div1{
+  background-color:#ccdae8;
+  padding: 12px ;
+  margin:5px;
+ border-radius: 12px ;
+}
+#div2{
+  background-color: #ffa5fc;
+  padding: 12px ;
+  margin:5px;
+  border-radius: 12px ;
+}
+#div3{
+  background-color:rgba(162,254,254,0.78) ;
+  padding: 12px ;
+  margin:5px;
+  border-radius: 12px ;
+}
+.container3{
+display:flex;
+justify-content:space-around ;
+padding: 5px 7%;
+Margin-bottom: 10px;
+}
+#div4{
+ background-color:#fdec7f;
+  padding: 5px 0 5px 10px ;
+  margin:5px;
+  border-radius: 12px ;
+}
+.anchor-button2 {
+  font-size: 17px ;
+  width:200px; 
+  margin:0 auto;
+  text-decoration: none;
+  text-align:center ;
+  Background-color:red;
+  Border-radius: 5px;
+  Padding:10px 20px ;
+  font-weight:400 ;
+  Color: white ;
+  cursor: pointer;
+}
+#div5{
+ Background-color:#fdec7f ;
+  padding: 20px ;
+  margin:5px;
+  border-radius: 12px ;
+ 
+}
+.img{
+  Height:350px;
+ width: 100%; 
+}
+#h2{
+  Padding-top:15px;
+  font-size: 40px;
+}
+.div7{
+  background-color:#fdec7f ;
+  padding: 20px ;
+  margin:5px;
+  border-radius: 12px ;
+}
+#div6{
+  background-color:#fdec7f ;
+  padding: 20px ;
+  margin:5px;
+  border-radius: 12px ;
+ 
+}
+#img2{
+  Height:350px;
+ width: 100%; 
+}
+#form2{
+  background-color:#fce7a6;
+  Padding: 30px 0;
+  margin:50px 200px;
+  align-content: center ;
+}
+#input2{
+  margin:20px 0 16px 80px;
+  padding-bottom:5px ;
+  Padding-top:5px;
+  Height:20px;
+  Width:300px;
+  border:0;
+  Color:gray;
+}
+.subscribe-button {
+   font-size: 15px ;
+  width:250px; 
+  Height:17px;
+  margin:0;
+  text-decoration: none;
+  text-align:center ;
+  Background-color:red;
+  Padding:6px 18px ;
+  font-weight:400 ;
+  Color: white ;
+  cursor: pointer;
+}
+footer{
+  Background-color: Black;
+  padding-bottom: 5px;
+}
+footer p{
+  color:white;
+  text-align: center ;
+  padding-top:0;
+}
